@@ -1,7 +1,7 @@
 # Deploying an application on Kubernetes
 
 ## Prerequisites
-> - Docker installed 
+> - [Docker](https://www.docker.com/products/docker-desktop/) installed 
 > - [Node.js](https://nodejs.org/en/download/) installed 
 
 ## Install
